@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/Admin/OneDrive/Documents/Ny%20mapp/examples-main/examples-main/examples/hello-world/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
