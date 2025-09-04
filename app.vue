@@ -8,6 +8,7 @@ const version = 2 + 1
   </div>
 </template>
 
+
 <style scoped>
 .hello {
   font-family: Arial, Helvetica, sans-serif;
